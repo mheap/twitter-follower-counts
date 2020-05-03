@@ -1,0 +1,17 @@
+{
+  "name": "twitter-follower-count-last-tweet",
+  "version": "1.0.0",
+  "description": "Show your follower count and latest tweet. Work out what's working and what isn't",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Heap <m@michaelheap.com>",
+  "license": "MIT",
+  "dependencies": {
+    "moment": "^2.25.1",
+    "sqlite": "^4.0.7",
+    "sqlite3": "^4.2.0",
+    "twitter-lite": "^0.11.0"
+  }
+}
